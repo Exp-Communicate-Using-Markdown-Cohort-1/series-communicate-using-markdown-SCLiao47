@@ -26,3 +26,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+## Step 4, adding task list
+
+- [ ] Making a list
+- [ ] An imcomplete item
+- [x] A complete item
